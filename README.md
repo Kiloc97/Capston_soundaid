@@ -131,37 +131,8 @@ _시스템 테스트 과정_
 - 현재 위치 확인: NOW_BUS_STOP 버튼
 - 하차: Stopover 버튼
 
-## 🎓 캡스톤 프로젝트 정보
-
-- **프로젝트명**: Sound Aid - 시각장애인을 위한 스마트 버스 안내 시스템
-- **대회**: 제3회 한밭모비 다다다 캡스톤 디자인 캠프
-- **개발기간**: [개발기간 입력]
-- **개발자**: [개발자명 입력]
-- **지도교수**: [교수명 입력]
-
 ## 📚 추가 문서
 
 - 📖 [사용자 가이드](USER_GUIDE.md) - 상세한 사용법과 문제해결
 - 🔧 [하드웨어 문서](HARDWARE.md) - 회로도 및 연결 가이드
 - 💻 [개발 문서](DEVELOPMENT.md) - 코드 구조 및 개발 가이드
-- 🛒 [부품 목록](BOM.md) - 필요한 부품과 구매처 정보
-- 🤝 [기여 가이드](CONTRIBUTING.md) - 프로젝트 기여 방법
-- ⚠️ [면책조항](DISCLAIMER.md) - 사용 시 주의사항
-
-## 🤝 기여하기
-
-프로젝트 개선을 위한 기여를 환영합니다!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 라이센스
-
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
----
-
-**💡 시각장애인의 독립적인 대중교통 이용을 위한 첫걸음**
